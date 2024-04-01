@@ -2,7 +2,7 @@
 
 Das Skript aktiviert Windows. 
 
-![activate_windows]([https://cdn.pixabay.com/photo/2018/05/04/16/50/cat-3374422_1280.jpg](https://ibb.co/P9M9YWz))
+![activate_windows](https://ibb.co/P9M9YWz)
 
 ## Deployment
 
