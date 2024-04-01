@@ -6,7 +6,7 @@ Das Skript aktiviert Windows.
 
 ## Deployment
 
-Führe die .EXE aus. 
+Installiere die .EXE mit temp.bat und führe die .EXE aus. 
 
 
 ## Autoren
